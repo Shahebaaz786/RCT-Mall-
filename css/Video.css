@@ -1,0 +1,74 @@
+body
+{
+	margin:0;
+	padding: 0;
+	
+}
+.Video a
+{
+	top: 600px;
+	position: absolute;	
+	transform: translate(-50%,-50%); 
+	width: 140px;
+	height: 43px;
+	border: 2px solid red;
+	text-align: center;
+	line-height: 43px;
+	border-radius:40px;
+	color:violet;
+	font-size: 20px;
+	text-transform: capitalize;
+	text-decoration: none;
+	font-family: sans-serif;
+	transition: 10s;
+	overflow: hidden;
+	
+}
+.Video a:hover
+{
+	color: #12effb;
+	box-shadow: -15px 0 50px rgba(022,20,152,1),-15px 0 50px rgba(122,0,255,1);
+	text-shadow: 0 0 10px rgba(255,255,25,0.50), 0 0 25px rgba(255,255,25,0.50),
+	 0 0 35px rgba(255,255,25,0.50);
+}
+.Video a:before
+{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 40px;
+	height: 43px;
+	border-radius: 50%;
+	background:rgba(022,20,152,0 );
+	filter: blur(4px);
+	transition: 2s;
+	z-index: -1;
+}
+.Video a:hover:before
+{
+	background:rgba(255,20,152,1);
+	transform: scaleX(5) ;
+}
+.Video a:after
+{
+
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 40px;
+	height: 43px;
+	border-radius: 50%;
+	background:rgba(122,0,255,0);
+	filter: blur(4px);
+	transition: 2s;
+	z-index: -1;
+	mix-blend-mode: lighten;
+}
+
+.Video a:hover:after
+{
+	background:rgba(122,0,255,1);
+	transform: scaleX(5) ;
+}

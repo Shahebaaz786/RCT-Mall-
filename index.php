@@ -1,0 +1,137 @@
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta http-equiv="X-UA-compatible" content="ie=edge">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/Style.css">
+	<link rel="stylesheet" type="text/css" href="css/sano.css">
+	<link rel="stylesheet" type="text/css" href="css/Video.css">
+	<link rel="stylesheet" type="text/css" href="css/Info.css">
+	<title>WellCome In RCT MALL...</title>
+
+</head>
+<body>
+
+	<marquee behavior="scroll" scrollamount="17">
+		<H3  style="color:orange; margin-top: 20px; font-size: 25px; font-family: Times New Roman;">Hello EveryOne !.. Wellcome In <font color="violet" style="font-size: 40px; font-family:Monotype Corsiva;">RCT Mall</font>&nbsp;...</H3>
+	</marquee>
+
+
+<marquee  direction="right" behavior="alternate" scrollamount="15">
+	<h3 style="color:pink; margin-left: 0; margin-top: 05px; font-size: 20px; font-family: Century;">Enjoy In <font color="Red" style="font-size: 30px; font-family: Edwardian Script ITC;">T</font><font color="Red" style="font-size: 30px; ">ime</font> <font color="Red" style="font-size: 30px; font-family: Monotype Corsiva;">Z</font><font color="Red" style="font-size: 30px; ">one</font> In RCT...</h3>
+</marquee>
+	<br>
+
+<marquee direction="up" behavior="alternate" height="135px" scrollamount="7" >
+<img src="RCTMall/RCT 8.png" style="width: 130px; height: 130px;  margin-left: 45px;  padding-top: 5px; " >
+</marquee>
+
+<div id="RCT1">
+<h1 class="text-center"><font color="red"   style="font-size: 150px; font-family: Edwardian Script ITC;"> R</font> <font color="71d623">C</font><font color="#fa1cf6">i</font><font color="#66e81b">t</font><font color="#eda130">y</font> &nbsp; <font color="#f61111">M</font><font color="#e8c31ba">a</font><font color="#750aef">l</font><font color="#f6a211">l</font></h1>
+</div>
+
+
+<hr width="670px"  color="blue"> </hr>
+
+
+<h3><font color="#e8c31ba" style="font-size: 70px; font-weight: bold; font-family: Edwardian Script ITC;">W</font>el<font color="#f74519">lc</font>om<font color="#9849f3">e</font></h3>
+
+
+
+	<marquee behavior="alternate"  direction="up" scrollamount="12">
+		<H3  style="color:#25f31e; margin-left: 50px; margin-top: 	20px;  height: 150px; font-size: 40px; font-family: Monotype Corsiva;">Enjoy Here..</H3>
+	</marquee>
+
+
+<section class="Shaking">
+
+<img src="RCTMall/13.png" class="shake" style="width: 110px; height: 110px;  margin-left: 610px; ">
+
+
+<h1 class="shake" style=" margin-left: 610px;  font-size: 40px; margin-top: 5px; "><font color="#fc78a2" style=" font-weight: bold; font-family: Edwardian Script ITC;">R </font> <font color="#dcd32d" style=" font-weight: bold; font-family: Edwardian Script ITC;">C </font><font color="#77f42e" style=" font-weight: bold; font-family: Edwardian Script ITC;">T </font></h1>
+</section>
+
+
+<div class="container" data-toggle="tooltip" data-placement="bottom" title="Press On Click Me.. To Enter In RCity Mall...">
+<a href="Shop In Mall.php" class="button"  style="margin-left: 500px; text-decoration: none;   font-size: 40px;  font-family: Monotype Corsiva;">Click Me..</a>
+</div>
+
+
+<div class="Video" data-toggle="tooltip" data-placement="bottom"  title="See Video of RCity Mall...">
+<a href="Media/.mp4" style="margin-left: 460px; font-family: Monotype Corsiva; text-decoration: none; font-size: 34px;">Video</a>
+</div>
+
+
+
+
+<div class="card bg-warning  text-center  border-danger Info" style=" width: 19.6rem; margin-left: 960px; margin-top:-120px;">
+	<a href="#shebaaz" class="btn" role="button" data-toggle="collapse" style="margin-left:-90px; margin-top:-453; text-decoration: none; 	font-size: 30px;">Info</a>
+		<div class="collapse" id="shebaaz" >
+			<div class="card-header text-danger "><h2>Information..</h2></div>
+
+			<div class="card-body">
+				<h4 class="card-title text-primary "><font style="font-size: 43px; font-weight: bold; font-family: Edwardian Script ITC;">...RCity Mall...</font></h4>
+
+				<font color="black" >
+					<ul style="list-style-type: none; margin-left: -40px;">
+						
+						 <b style=" margin-left: 8px;">1.</b>The RCity Mall is very Famous Mall in Mumbai.(Vikhroli-West)
+						
+
+						 <br>
+						 
+						 <b  style=" padding-left: 2px;">2.</b>In RCity we have shopping as well as playing many 3D games  in Time Zone.
+						
+						 <br>
+								
+						 <p  style="padding-right:25px;">
+						 <b>3.</b>We will Enjoying all over every things in RCT.
+						</p>
+
+						 <b style=" margin-left: 8px;">4.</b><i>Hurry Up</i>.. Shop Now In RCity Mall.
+						 <br>
+						 <br>
+
+						<center><u><b>Address</b></u> - Vikhroli (West) Parksite , Near GhatKopar. </center>
+							
+					</ul>
+				</font>
+
+
+			</div>
+		</div>
+</div>
+
+
+
+
+
+
+<marquee direction="right" behavior="alternate" scrollamount="20">
+	<h3 style="color:yellow; margin-left: 0; margin-top: 175px; font-size: 25px; font-family: Times New Roman;">
+	It's Created By &nbsp; <font color="red">Shahebaaz</font> <font color="#f530a6">Ashpak</font> <font color="orange">Inamdar</font>.. <font color="pink">SS</font>...
+	</h3>
+</marquee>
+
+
+
+
+<audio controls autoplay hidden loop="2">
+	<source src="Media/Rcity Mall Audio.mp3" type="audio/mp3">
+</audio>
+
+<script src="js/jquery.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+
+<script>
+	$(function (){
+		$('[data-toggle="tooltip"]').tooltip()
+	})
+</script>
+
+</body>
+</html>
